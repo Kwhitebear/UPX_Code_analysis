@@ -5,6 +5,8 @@ I analyzed the packing process, not just the unpacking of the UPX packing.
 
 before entering, UPX Packing, Unpacking Should be studied. 
 
+<strong>The programs required for analysis are IDA and x64dbg.</strong>
+
 
 # Chapter 1. Packing & UnPacking
 
